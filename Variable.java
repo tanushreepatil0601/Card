@@ -18,6 +18,5 @@ public static void main(String[] args)
         System.out.println(v.id);
 	System.out.println(v.name);
 	v.t1();
-
 }	
 }
